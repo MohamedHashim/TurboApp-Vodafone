@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396651703691",
+    "firebase_url": "https://turboapp-37182.firebaseio.com",
+    "project_id": "turboapp-37182",
+    "storage_bucket": "turboapp-37182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396651703691:android:716b703318dae5e2",
+        "android_client_info": {
+          "package_name": "com.mohamedhashim.turboapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396651703691-j4rf2hfkn62tsvcpmgqm4u0l3ljskkm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedhashim.turboapp",
+            "certificate_hash": "63b8c3a265b9c34a3bf25995259095926744f39b"
+          }
+        },
+        {
+          "client_id": "396651703691-vttd5v4qrlmo34g74jiuctfelah69k56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbPZ26cx3aJanCtdVwXU5Dzad4WuFLsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396651703691-vttd5v4qrlmo34g74jiuctfelah69k56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
